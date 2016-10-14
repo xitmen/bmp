@@ -17,6 +17,7 @@ body {
 }
 a {
   text-decoration: none;
+  color: #333;
 }
 /***顶部头像***/
 .bmp_top_nav p {
