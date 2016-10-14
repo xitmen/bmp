@@ -1,4 +1,4 @@
-/***ȫ����ʽ***/
+/***全局样式***/
 .left {
   float: left;
 }
@@ -16,9 +16,9 @@ body {
   color: #333;
 }
 a {
-  text-underline: none;
+  text-decoration: none;
 }
-/***������ʽ***/
+/***顶部头像***/
 .bmp_top_nav p {
   text-align: center;
 }
