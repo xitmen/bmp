@@ -1,0 +1,24 @@
+/***ȫ����ʽ***/
+.left {
+  float: left;
+}
+.right {
+  float: right;
+}
+.ov {
+  overflow: hidden;
+}
+.text-align {
+  text-align: center;
+}
+body {
+  font-size: 14px;
+  color: #333;
+}
+a {
+  text-underline: none;
+}
+/***������ʽ***/
+.bmp_top_nav p {
+  text-align: center;
+}
